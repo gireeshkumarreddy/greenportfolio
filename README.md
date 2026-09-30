@@ -25,3 +25,7 @@ Open `http://localhost:8080`. Use a web server rather than opening HTML files di
 This is a complete static site with no package installation, build step, API keys, or external asset dependencies. Set the host's publish/output directory to `dist`, leave the build command empty, and serve its contents from the domain root. Keep the `projects` and `assets` directories intact.
 
 All six pages, original project visuals used on the site, stationery cutouts, local fonts, styles, and JavaScript animations are included. The `.openai/hosting.json` file records the existing Sites publication; a standard static host does not need it.
+
+## Launch video
+
+A 15-second launch video for this portfolio, built with Remotion, lives in [gireesh-launch-video](https://github.com/gireeshkumarreddy/gireesh-launch-video). It tours all six pages using the site's own stationery as motion graphics.
